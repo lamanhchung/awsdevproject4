@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties" :{
+    "name": {
+      "type": "string"
+    },
+    "dueDate": {
+      "type": "string"
+    },
+    "done": {
+      "type": "boolean"
+    },
+    "attachmentUrl": {
+      "type": "string"
+    }
+  }
+}
